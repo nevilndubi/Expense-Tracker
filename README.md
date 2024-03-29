@@ -1,0 +1,1 @@
+This is an expense tracking application for personal financial management.
